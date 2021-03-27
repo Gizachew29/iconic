@@ -8,6 +8,8 @@
 	"ensure_newline_at_eof_on_save": false,
 	"file_exclude_patterns":
 	[
+		
+		
 		".DS_Store",
 		"Desktop.ini",
 		"*.pyc",
@@ -33,6 +35,8 @@
 	[
 		80
 	],
+	
+	
 	"show_encoding": true,
 	"show_line_endings": true,
 	"tab_size": 2,
