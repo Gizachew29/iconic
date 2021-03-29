@@ -10,6 +10,9 @@
 	[
 		
 		
+		
+		
+		
 		".DS_Store",
 		"Desktop.ini",
 		"*.pyc",
@@ -23,6 +26,8 @@
 		".git",
 		"node_modules"
 	],
+	
+	
 	"font_face": "Monaco",
 	"font_size": 13,
 	"highlight_modified_tabs": true,
