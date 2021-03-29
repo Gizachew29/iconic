@@ -8,6 +8,8 @@
 	"ensure_newline_at_eof_on_save": false,
 	"file_exclude_patterns":
 	
+	
+	
 	[
 		".DS_Store",
 		"Desktop.ini",
@@ -18,6 +20,8 @@
 		".Trashes"
 	],
 	"folder_exclude_patterns":
+	
+	
 	
 	[
 		".git",
@@ -42,3 +46,5 @@
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
 }
+
+
