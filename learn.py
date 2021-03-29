@@ -21,6 +21,8 @@
 		".Spotlight-V100",
 		".Trashes"
 	],
+	
+	
 	"folder_exclude_patterns":
 	[
 		".git",
@@ -49,3 +51,5 @@
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
 }
+
+
