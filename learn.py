@@ -9,10 +9,6 @@
 	"file_exclude_patterns":
 	[
 		
-		
-		
-		
-		
 		".DS_Store",
 		"Desktop.ini",
 		"*.pyc",
@@ -21,15 +17,13 @@
 		".Spotlight-V100",
 		".Trashes"
 	],
-	
-	
+
 	"folder_exclude_patterns":
 	[
 		".git",
 		"node_modules"
 	],
-	
-	
+		
 	"font_face": "Monaco",
 	"font_size": 13,
 	"highlight_modified_tabs": true,
@@ -43,7 +37,6 @@
 		80
 	],
 	
-	
 	"show_encoding": true,
 	"show_line_endings": true,
 	"tab_size": 2,
@@ -51,5 +44,3 @@
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
 }
-
-
