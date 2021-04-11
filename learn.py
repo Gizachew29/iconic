@@ -17,12 +17,16 @@
 		".Spotlight-V100",
 		".Trashes"
 	],
+	
+	
 
 	"folder_exclude_patterns":
 	[
 		".git",
 		"node_modules"
 	],
+	
+	
 		
 	"font_face": "Monaco",
 	"font_size": 13,
@@ -44,3 +48,5 @@
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
 }
+
+
