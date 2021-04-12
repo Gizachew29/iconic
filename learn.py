@@ -9,6 +9,8 @@
 	"file_exclude_patterns":
 	[
 		
+		
+		
 		".DS_Store",
 		"Desktop.ini",
 		"*.pyc",
@@ -20,11 +22,16 @@
 	
 	
 
+	
+	
 	"folder_exclude_patterns":
 	[
 		".git",
 		"node_modules"
 	],
+	
+	
+	
 	
 	
 		
