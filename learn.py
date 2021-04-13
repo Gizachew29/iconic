@@ -9,8 +9,7 @@
 	"file_exclude_patterns":
 	[
 		
-		
-		
+			
 		".DS_Store",
 		"Desktop.ini",
 		"*.pyc",
@@ -21,8 +20,6 @@
 	],
 	
 	
-
-	
 	
 	"folder_exclude_patterns":
 	[
@@ -31,9 +28,7 @@
 	],
 	
 	
-	
-	
-	
+		
 		
 	"font_face": "Monaco",
 	"font_size": 13,
@@ -55,5 +50,3 @@
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
 }
-
-
