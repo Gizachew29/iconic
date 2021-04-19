@@ -21,6 +21,8 @@
 	
 	
 	
+	
+	
 	"folder_exclude_patterns":
 	[
 		".git",
