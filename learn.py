@@ -9,7 +9,7 @@
 	"file_exclude_patterns":
 	[
 		
-			
+		
 		".DS_Store",
 		"Desktop.ini",
 		"*.pyc",
